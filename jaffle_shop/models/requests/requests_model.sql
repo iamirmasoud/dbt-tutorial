@@ -1,0 +1,1 @@
+select id, conversion_time from separator_separationrequest
